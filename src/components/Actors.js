@@ -16,6 +16,7 @@ const Actors = () => {
                   ))}
               </ul>
           </div>
+          ))}
     </div>
   );
 };
